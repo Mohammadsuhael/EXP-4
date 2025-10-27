@@ -63,7 +63,7 @@ Half wave rectifier
 
 Bridge rectifier:
 <img width="1023" height="649" alt="image" src="https://github.com/user-attachments/assets/5a69d8bc-11aa-425e-8530-b8c26e4d3262" />
-![Uploading image.png…]()
+<img width="1012" height="629" alt="image" src="https://github.com/user-attachments/assets/434a533c-a835-4f86-9603-f4986406224c" />
 
 
 RESULT:
